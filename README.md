@@ -63,4 +63,4 @@ Aprender en línea no es sacar un “cursito online”.  Es hacer comunidad, cre
 
 ## Para finalizar llevate esto: 
 Más importante que las respuestas son las preguntas.
-Únicamente los que tenemos preguntas hayamos respuestas. 
+Únicamente los que tenemos preguntas encontramos respuestas. 
