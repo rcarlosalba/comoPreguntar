@@ -20,7 +20,7 @@ Es posible que hayas leído “Yo Robot” de Isaac Asimow o bien visto la pelí
 La primera: Lo, siento detective, mis respuestas son limitadas (esto se debe a que el detective no hace preguntas que el programa pueda contestar).
 La segunda: Esa, detective, es la pregunta correcta. 
 
-![Esa, detective, es la pregunta correcta.](./ruta)
+![Esa detective, es la pregunta correcta.](./IamRobot.gif)
 
 En ambos casos el programa no da la respuesta. Pero en el segundo no es necesario. Hecha la pregunta correcta se obtiene la información necesaria. Hay una serie de pasos a seguir para crear una buena pregunta: 
 
